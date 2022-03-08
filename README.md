@@ -17,3 +17,10 @@ Crop
 
 # Application Architecture: Architecture Design as per Project
 ![Capture](https://user-images.githubusercontent.com/88342222/157287100-48ff3633-8477-49f0-a52d-29dbf2d508e8.PNG)
+ # Model Used:
+
+XG-Boost (Extreme Gradient Boosting) is a gradient boosting library in python. It is based on gradient boosted decision trees. It is a boosting algorithm which is used in various competitions like Kaggle for improving the model accuracy and robustness. Decision tree-based algorithms are considered best for small/medium structured or tabular data. Building models using XG-Boost is quite easy. But improving its efficiency is really hard. We have various parameters in XG-Boost, which requires tuning.
+## Classification:-
+## Test :-92.54
+## Train:-92.52
+## Precision:-93
