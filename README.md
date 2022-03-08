@@ -13,3 +13,7 @@ District_Name
 Season
 Crop
 ![image](https://user-images.githubusercontent.com/88342222/154066325-5040ce5b-7f8d-4615-a668-d425bcbd611b.png)
+
+
+# Application Architecture: Architecture Design as per Project
+![Capture](https://user-images.githubusercontent.com/88342222/157287100-48ff3633-8477-49f0-a52d-29dbf2d508e8.PNG)
