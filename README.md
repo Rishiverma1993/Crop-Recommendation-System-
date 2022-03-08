@@ -24,3 +24,7 @@ XG-Boost (Extreme Gradient Boosting) is a gradient boosting library in python. I
 ## Test :-92.54
 ## Train:-92.52
 ## Precision:-93
+
+# Conclusion and Future scope:
+The prediction of crop yield based on location and proper implementation of algorithms have proved that the higher crop yield can be achieved. Building this particular application in the regional languages, so that it would be more comfortable for farmers. Crop disease detection and prevention A generalized prediction model for various crops by considering other parameters like humidity and solar radiation can be developed.
+India is a nation in which agriculture plays a prime role. In prosperity of the farmers, prospers the nation Thus our work would help farmers in sowing the right seed based on soil requirements to increase productivity and acquire profit out of such a technique Thus the farmer’s can plant the right crop increasing his yield and also increasing the overall productivity of the nation. Our future work is aimed at an improved data set with large number of attributes and also implements yield prediction.
